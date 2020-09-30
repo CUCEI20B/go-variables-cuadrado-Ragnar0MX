@@ -7,7 +7,10 @@ func main() {
 	num = 5
 	cua := num * num
 	fmt.Println(cua)
-
-	fmt.Println("two")
-	fmt.Println("three")
+	num = 1000
+	cua := num * num
+	fmt.Println(cua)
+	num = 50
+	cua := num * num
+	fmt.Println(cua)
 }
