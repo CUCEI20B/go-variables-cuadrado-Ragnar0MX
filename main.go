@@ -8,9 +8,9 @@ func main() {
 	cua := num * num
 	fmt.Println(cua)
 	num = 1000
-	cua := num * num
-	fmt.Println(cua)
+	cua2 := num * num
+	fmt.Println(cua2)
 	num = 50
-	cua := num * num
-	fmt.Println(cua)
+	cua4 := num * num
+	fmt.Println(cua4)
 }
